@@ -1,0 +1,13 @@
+\beamer@sectionintoc {1}{Análisis dimensional}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introducción}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Dimensiones}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Principio de homogeneidad dimensional}{6}{0}{1}
+\beamer@sectionintoc {2}{Grupos adimensionales}{7}{0}{2}
+\beamer@sectionintoc {3}{Principios del análisis dimensional}{8}{0}{3}
+\beamer@sectionintoc {4}{Teorema Pi de Buckingham}{12}{0}{4}
+\beamer@sectionintoc {5}{Aplicación del teorema Pi de Buckingham}{14}{0}{5}
+\beamer@sectionintoc {6}{Grupos adimensionales relevantes para la mec\'anica de fluidos}{22}{0}{6}
+\beamer@sectionintoc {7}{Modelamiento y similitud}{25}{0}{7}
+\beamer@subsectionintoc {7}{1}{Teoría de modelos}{26}{0}{7}
+\beamer@subsectionintoc {7}{2}{Grados de similitud}{28}{0}{7}
+\beamer@subsectionintoc {7}{3}{Similitud incompleta}{33}{0}{7}

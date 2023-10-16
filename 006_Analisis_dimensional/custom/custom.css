@@ -1,0 +1,162 @@
+
+
+<style>
+
+/* Teoremas */
+
+
+div.theorem {
+}
+
+
+div.theorem.header {
+    background-color: rgba(0,82,41,0.5);
+    font-weight: bold;
+    padding: 20px;
+}
+
+div.theorem.body {
+    background-color: rgba(153,194,173,0.5);
+    text-align:justify;
+    padding: 20px;
+}
+
+
+
+/* Diapo portada */
+
+table.portada {
+    border: 0px solid black;
+    border-collapse: collapse;
+    vertical-align: top;
+    width: 100%;
+}
+
+tr.portadatr {
+    background-color: white;
+    vertical-align: middle;
+    padding: 0px;
+}
+
+td.portada1 {
+    width: 25%;
+     border: 0px solid black;
+    padding: 0px;
+}
+
+td.portada2 {
+    width: 50%;
+    border: 0px solid black;
+}
+
+td.portada3 {
+    width:25% ;
+    border: 0px solid black;
+}
+
+
+
+p.portada.institucion {
+    font-size:25px;
+}
+
+p.portada.asignatura{
+    font-size:50px
+}
+
+p.portada.capitulo {
+    font-size:60px;
+}
+
+/* listas */
+
+.lista{
+    text-align:justify;
+}
+
+/* Diapo general*/
+
+div.comment_box{
+    padding: 15pt;
+    border: 2px solid black;
+    background-color: rgba(255,0,255,0.1);
+    text-align:justify;
+}
+
+div.equation_box{
+    padding: 15pt;
+    border: 2px solid black;
+    background-color: rgba(0,0,255,0.1);
+
+}
+p.equation_box{
+    text-align:justify;
+    font-size:25px
+}
+
+div.diapo {
+      border-width: 0px;
+      border-color: red;
+      border-style: dashed;
+      height: 650px;
+}
+
+
+/* Diapo base*/
+
+div.base.header {
+    height:66px;
+    border: 0px solid black;
+    font-size: 45px;
+}
+
+div.base.body {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%) translateY(42px);
+    width:100%;
+    font-size:25px;
+    text-align:justify;
+}
+
+/* Diapo título */
+
+
+div.titulo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 100%;
+    border: 0px solid black;
+    font-size:60px;
+}
+
+div.alternativa{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%) translateY(0px);
+    width:100%;
+    font-size:25px;
+}
+
+div.alternativa_header{
+    font-size:55px;
+    padding-bottom:20px;
+}
+
+div.alternativa_body{
+    text-align:justify;
+    font-size:25px
+}
+
+
+
+
+
+</style>

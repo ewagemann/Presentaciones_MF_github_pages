@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180.00732mm"
+   height="110.14926mm"
+   viewBox="0 0 180.00732 110.14926"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="grados_sim.svg"
+   inkscape:export-filename="C:\Users\enriq\Dropbox\DIM_UDEC\Mecanica_de_fluidos\Material\presentaciones\2022\5 - Analisis dimensional\Semana 1\Figures\grados_sim.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="406.74831"
+     inkscape:cy="155.83214"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.6507266,-23.480274)">
+    <rect
+       style="fill:#cd7f32;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="179.00732"
+       height="36.346142"
+       x="-2.1507266"
+       y="96.783394" />
+    <rect
+       style="fill:#c0c0c0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect950"
+       width="139.12347"
+       height="36.462292"
+       x="17.791199"
+       y="60.38649" />
+    <rect
+       style="fill:#ffd700;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect952"
+       width="99.258263"
+       height="36.597084"
+       x="37.723804"
+       y="23.980274" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="46.904099"
+       y="120.62364"
+       id="text1770"><tspan
+         sodipodi:role="line"
+         id="tspan1768"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="46.904099"
+         y="120.62364">Geométrica</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.306252"
+       y="81.412941"
+       id="text3094"><tspan
+         sodipodi:role="line"
+         id="tspan3092"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="48.306252"
+         y="81.412941">Cinemática</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.486752"
+       y="47.945995"
+       id="text3866"><tspan
+         sodipodi:role="line"
+         id="tspan3864"
+         style="font-size:14.1111px;stroke-width:0.264583"
+         x="54.486752"
+         y="47.945995">Dinámica</tspan></text>
+  </g>
+</svg>
